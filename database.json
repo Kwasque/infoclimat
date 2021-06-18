@@ -1,0 +1,763 @@
+{
+    "normandie": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [-0.241395, 49.090765],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [0.965203, 49.075636],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [-1.245495, 49.091895],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [0.044662, 48.576053],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [0.940113, 49.663237],
+            "date": ["05/08/1993", "19/08/1990"]
+        }
+    ],
+    "idf": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [2.5, 48.8],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [2, 49],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [3, 49.05],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [2.64, 48.37],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [2.4, 48.7],
+            "date": ["05/08/1993", "19/08/1990"]
+        },
+        {
+            "id": 6,
+            "type": "Gêlées tardives",
+            "importance": "Notable",
+            "center": [2.65, 48.5],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 7,
+            "type": "Gêlées précoces",
+            "importance": "Anecdotique",
+            "center": [2.76, 48.8],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 8,
+            "type": "Épisode neigeux",
+            "importance": "Notable",
+            "center": [2.9, 48.4],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 9,
+            "type": "Épisode neigeux tardif",
+            "importance": "Notable",
+            "center": [2.81, 48.89],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 10,
+            "type": "Épisode neigeux précoce",
+            "importance": "Anecdotique",
+            "center": [2.45, 48.37],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 11,
+            "type": "Pluie verglaçantes",
+            "importance": "Mémorable",
+            "center": [2.27, 48.97],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 12,
+            "type": "Épisode pluvieux",
+            "importance": "Notable",
+            "center": [2.95, 48.35],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 13,
+            "type": "Inondation",
+            "importance": "Notable",
+            "center": [2.69, 48.25],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 14,
+            "type": "Chaleur / canicule",
+            "importance": "Notable",
+            "center": [3, 48.8],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 15,
+            "type": "Sécheresse",
+            "importance": "Notable",
+            "center": [1.9, 48.9],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 16,
+            "type": "Orages",
+            "importance": "Notable",
+            "center": [2.95, 48.26],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 17,
+            "type": "Grêle",
+            "importance": "Notable",
+            "center": [2.87, 48.21],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 18,
+            "type": "qsdqsdqsd",
+            "importance": "Notable",
+            "center": [2.67, 48.67],
+            "date": ["05/08/1990", "19/08/1990"]
+        }
+    ],
+    "auvergne_rhone_alpes": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [4.8582577, 46],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [3.163883, 46.367464],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [4.398653, 44.815194],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [2.699718, 45.04977],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [5.20456, 44.729646],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 6,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [5.634383, 45.289793],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 7,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [4.045474, 45.753854],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 8,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [3.833826, 45.085725],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 9,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [3.083993, 45.771534],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 10,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [4.564534, 45.880235],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 11,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [6.38466, 45.494895],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 12,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [6.344537, 46.068821],
+            "date": ["23/05/1990"]
+        }
+    ],
+    "bourgogne_france_comte": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [4.748122, 47.465503],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [6.235623, 47.066992],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [5.783286, 46.783363],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [5.46, 46.69],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [3.54489, 47.119697],
+            "date": ["05/08/1993", "19/08/1990"]
+        },
+        {
+            "id": 6,
+            "type": "Gêlées tardives",
+            "importance": "Notable",
+            "center": [6.095114, 47.638423],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 7,
+            "type": "Gêlées précoces",
+            "importance": "Anecdotique",
+            "center": [4.558555, 46.655709],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 8,
+            "type": "Épisode neigeux",
+            "importance": "Notable",
+            "center": [3.645044, 47.855126],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 9,
+            "type": "Épisode neigeux tardif",
+            "importance": "Notable",
+            "center": [6.899301, 47.629231],
+            "date": ["05/08/1990", "19/08/1990"]
+        }
+    ],
+    "centre_val_de_loire": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [2.575333, 47.024882],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [1.399882, 48.44741],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [1.538205, 46.812106],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [0.68667, 47.223205],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [1.297184, 47.659775],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 6,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [2.307504, 47.913872],
+            "date": ["23/05/1990"]
+        }
+    ],
+    "corse": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [9.008705, 41.873408],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [9.100907, 42.42197],
+            "date": ["05/08/1989", "19/08/1990"]
+        }
+    ],
+    "pays_de_la_loire": [
+        {
+            "id": 1,
+            "type": "Chaleur / canicule",
+            "importance": "Notable",
+            "center": [-1.872746, 47.348161],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 2,
+            "type": "Sécheresse",
+            "importance": "Notable",
+            "center": [-0.39091, 47.388631],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Orages",
+            "importance": "Notable",
+            "center": [-0.649127, 48.150782],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 4,
+            "type": "Grêle",
+            "importance": "Notable",
+            "center": [0.253822, 48.026929],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 5,
+            "type": "qsdqsdqsd",
+            "importance": "Notable",
+            "center": [-1.291446, 46.675773],
+            "date": ["05/08/1990", "19/08/1990"]
+        }
+    ],
+    "provence_alpes_cote_d_azur": [
+        {
+            "id": 1,
+            "type": "Épisode neigeux précoce",
+            "importance": "Anecdotique",
+            "center": [6.187852, 44.164083],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 2,
+            "type": "Pluie verglaçantes",
+            "importance": "Mémorable",
+            "center": [6.352025, 44.656467],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Épisode pluvieux",
+            "importance": "Notable",
+            "center": [7.179079, 43.921059],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 4,
+            "type": "Inondation",
+            "importance": "Notable",
+            "center": [4.8, 43.542418],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Chaleur / canicule",
+            "importance": "Notable",
+            "center": [6.266462, 43.417359],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 6,
+            "type": "Sécheresse",
+            "importance": "Notable",
+            "center": [5.18189, 43.993864],
+            "date": ["05/08/1990", "19/08/1990"]
+        }
+    ],
+    "grand_est": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [4.671601, 49.698012],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [4.0411011, 48.2924582],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [4.312244, 48.961264],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [5.252911, 48.132941],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [5.987038, 48.955968],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 6,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [5.162381, 48.771267],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 7,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [6.538035, 49.020726],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 8,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [7.533673, 48.599178],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 9,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [7.231543, 47.865475],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 10,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [6.382071, 48.163786],
+            "date": ["23/05/1990"]
+        }
+    ],
+    "haut_de_france": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [3.606899, 49.453285],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [3.606899, 49.453285],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [3.088352, 50.528967],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [2.406488, 49.412055],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [2.258008, 50.514406],
+            "date": ["28/12/1991", "02/01/1991"]
+        }
+    ],
+    "bretagne": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [-2.750587, 48.458422],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [-4.04409, 48.245115],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [-1.649809, 48.172768],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [-2.763349, 47.825981],
+            "date": ["23/05/1990"]
+        }
+    ],
+    "nouvelle_aquitaine": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [0.097305, 45.66679],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [1.817642, 45.342905],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [2.048901, 46.059349],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [0.632126, 45.14292],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [-0.605126, 44.883746],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 6,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [-0.643387, 44.009969],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 7,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [0.453916, 44.36917],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 8,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [-0.728247, 43.187187],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 9,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [-0.299478, 46.53914],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 10,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [16.372504, 48.208354],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 11,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [1.203177, 45.919019],
+            "date": ["28/12/1991", "02/01/1991"]
+        }
+    ],
+    "occitanie": [
+        {
+            "id": 1,
+            "type": "Tempête/coup de vent",
+            "importance": "Mémorable",
+            "center": [1.406554, 42.945537],
+            "date": ["02/02/1991"]
+        },
+        {
+            "id": 2,
+            "type": "Tornade",
+            "importance": "Exceptionnel",
+            "center": [2.50657, 44.315857],
+            "date": ["05/08/1989", "19/08/1990"]
+        },
+        {
+            "id": 3,
+            "type": "Cyclone",
+            "importance": "Remarquable",
+            "center": [4.297637, 43.95995],
+            "date": ["28/12/1991", "02/01/1991"]
+        },
+        {
+            "id": 4,
+            "type": "Froid",
+            "importance": "Mémorable",
+            "center": [0.971679, 43.305455],
+            "date": ["23/05/1990"]
+        },
+        {
+            "id": 5,
+            "type": "Froid inhabituel",
+            "importance": "Notable",
+            "center": [0.410102, 43.695528],
+            "date": ["05/08/1993", "19/08/1990"]
+        },
+        {
+            "id": 6,
+            "type": "Gêlées tardives",
+            "importance": "Notable",
+            "center": [3.355331, 43.591422],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 7,
+            "type": "Gêlées précoces",
+            "importance": "Anecdotique",
+            "center": [1.665774, 44.624992],
+            "date": ["05/08/1992", "19/08/1990"]
+        },
+        {
+            "id": 8,
+            "type": "Épisode neigeux",
+            "importance": "Notable",
+            "center": [3.521115, 44.542571],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 9,
+            "type": "Épisode neigeux tardif",
+            "importance": "Notable",
+            "center": [0.158666, 43.143793],
+            "date": ["05/08/1990", "19/08/1990"]
+        },
+        {
+            "id": 10,
+            "type": "Épisode neigeux précoce",
+            "importance": "Anecdotique",
+            "center": [2.506509, 42.625894],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 11,
+            "type": "Pluie verglaçantes",
+            "importance": "Mémorable",
+            "center": [2.133965, 43.792174],
+            "date": ["05/08/1991", "19/08/1990"]
+        },
+        {
+            "id": 12,
+            "type": "Épisode pluvieux",
+            "importance": "Notable",
+            "center": [1.205063, 44.080656],
+            "date": ["05/08/1992", "19/08/1990"]
+        }
+    ]
+}
